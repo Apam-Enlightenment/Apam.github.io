@@ -24,11 +24,8 @@ nav{
     z-index: 200;
     /*margin-bottom: -5rem;*/
 }
-.responsive-nav{
-    height: %;
-}
 .logo{
-    margin-right: 75%;
+    margin-left: 80%;
 }
 
 /*SECTION 1*/
@@ -176,8 +173,7 @@ svg:hover path{
 }
 @media only screen and (min-width: 786px){
     .logo{
-    margin-right: 15%;
-    margin-left: 5%;
+    margin-left: 90%;
     }
     .sec-1{
         display: flex;
@@ -245,8 +241,7 @@ svg:hover path{
         /*overflow: hidden;*/
     }
     .logo{
-    margin-right: 15%;
-    margin-left: 5%;
+    margin-left: 82%;
     }
     .sec-1{
         display: flex;
@@ -315,7 +310,7 @@ svg:hover path{
 .menu-wrap{
     position: fixed;
     top: 0;
-    left: 95%;
+    left: 0;
     z-index: 1;
 }
 .toggler{
